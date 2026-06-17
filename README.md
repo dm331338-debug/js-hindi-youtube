@@ -1,2 +1,2 @@
-# js-hindi-youtube
-a code repo for javascript series at Chai aur code youtube channel
+# HTML - CSS
+a code repo for Web Devlopment series at Internshala Training & youtube
